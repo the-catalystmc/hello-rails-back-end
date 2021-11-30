@@ -1,2 +1,24 @@
-# hello-rails-back-end
- This exercise is going to entail the creation of a React front-end with a Rails back-end and connect them to display a random message. This is the back-end of the app.
+# README
+
+This README would normally document whatever steps are necessary to get the
+application up and running.
+
+Things you may want to cover:
+
+* Ruby version
+
+* System dependencies
+
+* Configuration
+
+* Database creation
+
+* Database initialization
+
+* How to run the test suite
+
+* Services (job queues, cache servers, search engines, etc.)
+
+* Deployment instructions
+
+* ...
