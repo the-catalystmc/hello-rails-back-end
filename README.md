@@ -4,6 +4,7 @@ The Hello Rails Back End is a simple API that returns a random greeting when a c
 
 # Hello Rails FrontEnd
 [Live Demo](https://the-catalystmc.github.io/hello-react-front-end/)
+
 [Repository](https://github.com/the-catalystmc/hello-react-front-end)
 
 ## Built With
